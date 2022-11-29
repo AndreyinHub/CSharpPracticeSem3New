@@ -2,6 +2,7 @@ Create README in CSharp_13_PracticeSem3New folder
 //**Ссылка на ДЗ в репозитории**
 https://github.com/AndreyinHub/CSharpPracticeSem3New.git
 Push Exersises 19, 21, 23 to this repository
+![Блок-схема метода CreateArWithNededElemLgth](https://user-images.githubusercontent.com/114100305/204646870-72f556e7-a1f3-404d-a3c7-fe9023ad674d.jpg)
 
 Задача.
 Написать программу, которая из имеющегося массива строк формирует массив из строк, длина которых меньше либо равна 3 символа. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами. 
